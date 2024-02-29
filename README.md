@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# FootBall Project Database Guide
+# Soccer Database Project Guide
 <!-- omit in toc -->
 ## Table of Contents
 - [General Information](#general-information)
