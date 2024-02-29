@@ -106,7 +106,7 @@ command-line interface:
   defenceDefenderLineClass:       Cover    
 
 
-- **input:** ```mg``` <br>
+- **input:** ```mg``` <br>https://github.com/yenaing-oo/soccer-database/blob/main/README.md
   **output:** 
   <!-- omit in toc -->
   ```
@@ -147,4 +147,4 @@ The sources for the project can be found at the following links
 
 ## Contributors
 
-Group 79: Safran Bin Kader, Colin McDonell, Ye Naing Oo
+Safran Bin Kader, Colin McDonell, Ye Naing (Kelvin) Oo
