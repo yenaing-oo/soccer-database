@@ -3,10 +3,10 @@
 <!-- omit in toc -->
 ## Table of Contents
 - [General Information](#general-information)
+- [Entity Relationship Model](#entity-relationship-model)
 - [Running the Program and Populating the Database](#running-the-program-and-populating-the-database)
 - [Scope of Functionality](#scope-of-functionality)
 - [Examples of Use](#examples-of-use)
-- [Project Status](#project-status)
 - [Sources](#sources)
 - [Contributors](#contributors)
 
@@ -14,8 +14,13 @@
 
 The database created for this project contains data for european football (soccer) matches between 2008 and 2015.
 The database contains match, team, player, stadium, league, city and country information. The database is initialized and
-populated using sql files and uses a command-line interface to access and interact with database. The interface was created
+populated using SQL files and uses a command-line interface to access information and interact with database. The interface was created
 using the Java programming language.
+
+## Entity Relationship Model
+
+![ER diagram V4](https://github.com/yenaing-oo/soccer-database/assets/64188092/e110acae-7498-41f4-b603-07f3a3ae9f1b)
+
 
 ## Running the Program and Populating the Database
 
@@ -132,11 +137,6 @@ command-line interface:
   4     Portsmouth                  179.75          
   5     FC St. Pauli                179.51          
 
-
-
-## Project Status
-
-The project is fully functional, and working as expected.
 
 ## Sources
 
