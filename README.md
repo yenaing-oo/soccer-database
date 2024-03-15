@@ -111,7 +111,7 @@ command-line interface:
   defenceDefenderLineClass:       Cover    
 
 
-- **input:** ```mg``` <br>https://github.com/yenaing-oo/soccer-database/blob/main/README.md
+- **input:** ```mg```
   **output:** 
   <!-- omit in toc -->
   ```
